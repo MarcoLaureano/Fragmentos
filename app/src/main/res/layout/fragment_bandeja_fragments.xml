@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".bandejaFragments">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/reciclarCorreo"
+        android:layout_width="wrap_content"
+        android:layout_height="149dp"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ornare dolor sed sem tincidunt elementum. Ut maximus lobortis nisl. Cras finibus blandit risus. Cras ultricies placerat nisi, quis hendrerit nibh rhoncus a. Pellentesque suscipit condimentum mi, vitae tincidunt est congue ut. Nulla commodo urna eros, consectetur pretium metus sollicitudin et. Vivamus porta tempus purus, lacinia sodales odio porttitor quis. Nunc non elit arcu.
+
+" />
+
+</FrameLayout>
